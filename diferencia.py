@@ -66,5 +66,3 @@ def vidas():
 
 print("Juguemos ahorcado tendrás 6 vidas para adivinar la palabra oculta")
 vidas()
-# soy el pseudo body
-
