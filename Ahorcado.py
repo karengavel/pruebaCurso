@@ -66,3 +66,7 @@ def vidas():
 
 print("Juguemos ahorcado tendrás 6 vidas para adivinar la palabra oculta")
 vidas()
+
+            print("Se hacen los cambios para la rama Karen! ")
+            
+                        print("del curso de git ")
